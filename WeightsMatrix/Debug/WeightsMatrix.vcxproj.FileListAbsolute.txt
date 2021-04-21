@@ -1,0 +1,2 @@
+C:\Users\varka\Documents\2 курс, 2 сем\Алгоритмы\3лаба\UnitTestFordBellman\Debug\WeightsMatrix.pdb
+C:\Users\varka\Documents\2 курс, 2 сем\Алгоритмы\3лаба\WeightsMatrix\Debug\WeightsMatrix.pdb
